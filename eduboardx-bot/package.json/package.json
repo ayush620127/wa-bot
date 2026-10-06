@@ -1,0 +1,9 @@
+{
+  "name": "eduboardx-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp AI Sales Bot for EduBoardX Solution",
+  "main": "index.js",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
